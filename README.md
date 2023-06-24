@@ -21,9 +21,9 @@ Sou um programador Front End atualmente aprimorando meu aprendizado e criando pr
       
 📫 Contate-me
 <br>
-<div>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/"> <a href="https://www.linkedin.com/in/natanielmendes"/> 
-    <img height="28" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/"> <a href="mailto:natan.moura17@gmail.com"/>
+    <div>
+    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanielmendes/)](https://www.linkedin.com/in/natanielmendes)
+    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natan.moura17@gmail.com)](mailto:natan.moura17@gmail.com)
   </div>
 <br>
       
