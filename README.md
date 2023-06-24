@@ -12,11 +12,11 @@ Sou um programador Front End atualmente aprimorando meu aprendizado e criando pr
 </div>
 
 ✓ Minhas redes
-
-  <div>
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> <a href="https://www.instagram.com/natan.moura"/> 
-    <img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <a href="https://github.com/NatanMendesDF"/>
-  </div>
+<br>
+      <div>
+      [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/natan.moura/)
+      [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/NatanMendesDF)
+    </div>
 <br>
       
 📫 Contate-me
