@@ -2,7 +2,7 @@
 
 Eu sou Natan 👏
 
-Sou um programador Front End atualmente aprimorando meu aprendizado e criando projetos com:    
+Sou um estudante de Front End atualmente aprimorando meu aprendizado e criando projetos com:    
 
 <div align="center"><br>
     <img align="center" alt="Natan-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
