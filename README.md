@@ -23,7 +23,7 @@ Sou um estudante de Front End atualmente aprimorando meu aprendizado e criando p
 <br>
     <div>
     [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanielmoura/)](https://www.linkedin.com/in/natanielmoura)
-    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natan.moura17@gmail.com)](mailto:natan.moura17@gmail.com)
+    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natanmendes.developer@gmail.com)](mailto:natanmendes.developer@gmail.com)
   </div>
 <br>
       
