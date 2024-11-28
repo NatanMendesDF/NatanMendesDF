@@ -1,8 +1,8 @@
-### Olá, seja bem-vindo! 🧑🏽‍💻
+### Olá, bem-vindo ao meu perfil no GitHub!🎉
 
 Eu sou Natan 👏
 
-Sou um estudante de Front End atualmente aprimorando meu aprendizado e criando projetos com:    
+Sou um entusiasta da tecnologia e me apaixonando pela programação. Atualmente estudando e aprimorando meu aprendizado como desenvolverdor full stack criando projetos com:    
 
 <div align="center"><br>
     <img align="center" alt="Natan-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,7 +19,7 @@ Sou um estudante de Front End atualmente aprimorando meu aprendizado e criando p
     </div>
 <br>
       
-📫 Contate-me
+📫 Quer colaborar ou trocar ideias? Entre em contato comigo!
 <br>
     <div>
     [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanielmoura/)](https://www.linkedin.com/in/natanielmoura)
